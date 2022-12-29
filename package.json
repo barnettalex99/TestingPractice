@@ -1,0 +1,26 @@
+{
+  "name": "testingpractice",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barnettalex99/TestingPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barnettalex99/TestingPractice/issues"
+  },
+  "homepage": "https://github.com/barnettalex99/TestingPractice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}

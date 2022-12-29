@@ -1,0 +1,1 @@
+(()=>{var r={527:r=>{r.exports=function(r){let t=[];for(let o=0;o<=r.length;o++)t[o]=r.charAt(r.length-1-o);return t.join("")}}},t={};function o(e){var n=t[e];if(void 0!==n)return n.exports;var s=t[e]={exports:{}};return r[e](s,s.exports,o),s.exports}(()=>{const r=o(527);console.log(r("abc"))})()})();
